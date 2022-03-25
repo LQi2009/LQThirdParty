@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:LQThirdShare/CGYC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQShareSDK/LQShareSDK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQQWeChatDemo/LQQWeChatDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQAppleLogin/LQAppleLoginOC/LQAppleLogin.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQAliSDKDemo/LQAliSDKDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQUnionPayDemo/LQUnionPayDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LQUmengSDK/LQUmengDemo.xcodeproj">
+   </FileRef>
 </Workspace>

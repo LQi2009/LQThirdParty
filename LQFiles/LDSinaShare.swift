@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Artup. All rights reserved.
 //
 /* 简书博客: http://www.jianshu.com/u/2846c3d3a974
- Github: https://github.com/LQQZYY
+
  
  demo地址: https://github.com/LQQZYY/LDThirdShare-Swift
  博文讲解: http://www.jianshu.com/p/5a468f60c111
